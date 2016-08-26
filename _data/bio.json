@@ -24,6 +24,10 @@
         "network": "linkedin",
         "url": "https://www.linkedin.com/in/brandon-chun-528264124?trk=nav_responsive_tab_profile"
       },
+      {
+        "network": "email",
+        "url": "bchun9@hawaii.edu"
+      },
 
     ]
   },
@@ -38,6 +42,12 @@
       "name": "Coding",
       "keywords": [
         "Java", "C", "C++"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Software", "Engineering", "Programming"
       ]
     },
   ],
