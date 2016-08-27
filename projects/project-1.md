@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/stock-illustration-51778470-square-button-with-stick-figure-and-laptop.jpg
-title: Micromouse
+title: Warwalking
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Warwalking
+  - Wireless Networks
+summary: My group walked around the UH Manoa campus looking for unsecured wireless networks.
 ---
 
 <div class="ui small rounded images">
