@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/stock-illustration-51778470-square-button-with-stick-figure-and-laptop.jpg
 title: Micromouse
 permalink: projects/micromouse
 date: 2015
