@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/appstoreoptimization.jpg
 title: Cotton
 permalink: projects/cotton
-date: 2014
+date: 2016
 labels:
-  - Lisp
-  - GitHub
+  - Appery.io
+  - Database
+  - API
 summary: A text adventure game I developed for ICS 313.
 ---
 
