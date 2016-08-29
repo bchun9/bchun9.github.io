@@ -1,24 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/www.jpg
+title: ICS 321 Website
+permalink: projects/ics321website
 date: 2015
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - MySQL
+  - Website
+  - HTML
+  - Wordpress
+summary: A website developed in ICS 321 using Wordpress.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is a website that was made in ICS 321 to show a visual representation of a database. It also contains other projects from ICS 321.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Wordpress was used to manage and organize the pages of the website.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with HTML, databases, and general website layout. The pages of the website were coded in HTML. I learned how to manipulate the database using myPHP admin and MySQL statements.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://bchun9.ics321.com"><i class="large github icon"></i>Wordpress Website</a>
