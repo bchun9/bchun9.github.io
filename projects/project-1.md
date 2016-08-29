@@ -4,7 +4,7 @@ type: project
 image: images/stock-illustration-51778470-square-button-with-stick-figure-and-laptop.jpg
 title: Warwalking
 permalink: projects/warwalking
-date: 2015
+date: 2016
 labels:
   - Warwalking
   - Wireless Networks
