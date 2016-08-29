@@ -20,4 +20,4 @@ Wordpress was used to manage and organize the pages of the website.
 
 In this project I gained experience with HTML, databases, and general website layout. The pages of the website were coded in HTML. I learned how to manipulate the database using myPHP admin and MySQL statements.
  
-Source: <a href="https://bchun9.ics321.com"><i class="large github icon"></i>Wordpress Website</a>
+Source: <a href="bchun9.ics321.com"><i class="large github icon"></i>Wordpress Website</a>
