@@ -4,7 +4,7 @@ type: project
 image: images/www.jpg
 title: ICS 321 Website
 permalink: projects/ics321website
-date: 2015
+date: 2016
 labels:
   - MySQL
   - Website
