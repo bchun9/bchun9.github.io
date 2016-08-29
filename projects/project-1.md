@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/stock-illustration-51778470-square-button-with-stick-figure-and-laptop.jpg
 title: Warwalking
-permalink: projects/micromouse
+permalink: projects/warwalking
 date: 2015
 labels:
   - Warwalking
