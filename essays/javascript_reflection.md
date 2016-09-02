@@ -15,10 +15,10 @@ I found that Javascript was very similar to Java and C. The difficulty of Javasc
 
 
 <img class="ui tiny right circular floated image" src="../images/binary_heart.jpg">
-Learning a new language is a "hit or miss". Most of the time, I either love the language or hate it. I find that programming in general has a lot of these binary cases where it is depicted by a yes or no answer
+Learning a new language is a "hit or miss". Most of the time, I either love the language or hate it. One thing that I like about Javascript is the simplicity of it. I was able to do the basic Javascript exercises on freecodecamp.com with my little experience with programming. This shows that the basics of programming can be applied to any language. Although Javascript is a fairly easy language to pick up, I do have one pet peeve with it so far. I do not enjoy typing so many quotation marks when creating properties for objects. Other than that, I give Javascript a thumbs-up.
 
 
 <img class="ui tiny left circular floated image" src="../images/Question-Mark.jpg">
-If I were to critique the Javascript language from a software engineering perspective, it would be inaccurate.
+If I were to critique the Javascript language from a software engineering perspective, it would be inaccurate. In order to properly asses a language, as Leonardo DiCaprio once said, "we need to go deeper". And that is what I plan to do in this class, I plan to go deeper. To find out how I can make something interesting and cool to share with the community. The hard part is getting there.
 
 
