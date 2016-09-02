@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: logistics-mobile-apps.jpg
+image: images/logistics-mobile-apps.jpg
 title: Hawaii Electeds App
 permalink: projects/hawaiielecteds
 date: 2016
