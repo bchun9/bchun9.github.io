@@ -87,7 +87,7 @@
   "work": [
     {
       "company": "UH Information Technology Services",
-      "position": "Information Services Student Assistant",
+      "position": "ITS Help Desk Consultant",
       "website": "http://www.hawaii.edu/its",
       "startDate": "2016-06-01",
       "endDate": "Present",
@@ -100,29 +100,32 @@
   ],
   "volunteer": [
     {
-    //"organization": "Center for Renewable Energy and Island Sustainability",
-    //"website": "http://manoa.hawaii.edu/reis",
-    //"position": "Software Developer",
-    //"startDate": "2016-01-01",
-    //"endDate": "Present",
-    //"summary": "Lead developer for weather sensing project",
-    //"highlights": [
-    //  "Design firmware for distributed weather sensor network",
-    //  "Maintain custom data collection and storage infrastructure"
-      //]
+    "organization": "Information Technology Management Association (ITMA)",
+    "website": "",
+    "position": "Active member",
+    "startDate": "2014",
+    "endDate": "2015",
+    "summary": "",
+    "highlights": [
+      "Attend bi-weekly meetings",
+      "Particpate in professional mixers",
+      "Engage in club activities"
+      ]
 
     },
     {
-      //"organization": "",
-      //"website": "",
-      //"position": "Professional organization involvement",
-     // "startDate": "",
-      //"endDate": "",
-      //"summary": "",
-      //"highlights": [
-       // "Chair, ACM Manoa, 2016-Present",
-      //  "Member, IEEE Student Branch, 2014-Present",
-       // "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+    "organization": "Information Technology Management Association (ITMA)",
+    "website": "",
+    "position": "Director of Student Relations",
+    "startDate": "2015",
+    "endDate": "2016",
+    "summary": "",
+    "highlights": [
+      "Attend bi-weekly meetings",
+      "Particpate in professional mixers",
+      "Plan club activities",
+      "Engage in club activities",
+      "Interact with officers from other clubs",
       ]
     }
   ],
