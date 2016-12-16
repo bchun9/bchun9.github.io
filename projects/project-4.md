@@ -14,4 +14,8 @@ labels:
 summary: A web application developed to allow users to sell their concert tickets easily.
 ---
 
+This is a group project that was developed to allow students at the University of Hawaii at Manoa to be able to sell and exchange their concert tickets. Usually, students would have to buy their tickets from ticket vendors at retail price. However, this application would allow students to sell and buy tickets at a more affordable price. There are also features available for users to get in contact with other sellers through messages.
+
+<a href="https://manoa-tckts.github.io/">Click here</a> to view our organization.
+
 <img src="/images/Landing-page.png">
