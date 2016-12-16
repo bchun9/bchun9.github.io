@@ -6,7 +6,7 @@
     "email": "bchun9@hawaii.edu",
     "phone": "",
     "website": "https://brandon-chun.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. Currently, I have a fascination with encryption and I am considering pursuing a career related to that field. I expect to graduate in Fall, 2017.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -34,9 +34,9 @@
   },
   "interests": [
     {
-      "name": "Sports in general",
+      "name": "Sports",
       "keywords": [
-        "Sports"
+        "Basketball", "Baseball", "Weight Lifting", "Running"
       ]
     },
     {
@@ -51,6 +51,13 @@
         "Software", "Engineering", "Programming"
       ]
     },
+    
+     {
+      "name": "Encryption",
+      "keywords": [
+        "Hexadecimal", "Binary", "Programming", "Automation", "Data Security", "Cipher"
+      ]
+    },
   ],
   "skills": [
     {
@@ -58,18 +65,28 @@
       "level": "",
       "keywords": [
         "C",
+        "CSS",
         "C++",
+        "HTML",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Meteor",
+        "Mongo",
+        "mySQL",
+        "NodeJS",
+        "PHP",
+        "Semantic UI"
 
-      ]
+    ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "IntelliJ"
       ]
     }
   ],
@@ -94,8 +111,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Assist users with resetting passwords and managing UH Usernames", 
-        "Troubleshoot software, hardware, and networking issues over the phone"
+        "Assist users with resetting passwords and managing UH Usernames",
+        "Monitor specific UH systems",
+        "Troubleshoot software, hardware, and networking issues over the phone",
+        "Collaborate with other employees to solve user issues"
       ]
     },
   ],
