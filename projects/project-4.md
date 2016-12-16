@@ -14,4 +14,4 @@ labels:
 summary: A web application developed to allow users to sell their concert tickets easily.
 ---
 
-<img src="images/Landing-page.png">
+<img src="/images/Landing-page.png">
