@@ -21,4 +21,4 @@ By using HTML and Javascript we were able to create this web application. Semant
 
 <a href="https://manoa-tckts.github.io/">Click here</a> to view our organization.
 
-<img src="images/Landing-page.png" style="width:800px;">
+<img src="/images/Landing-page.png" style="width:800px;">
