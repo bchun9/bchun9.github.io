@@ -34,9 +34,9 @@
   },
   "interests": [
     {
-      "name": "Sports",
+     "name": "Encryption",
       "keywords": [
-        "Basketball", "Baseball", "Weight Lifting", "Running"
+        "Hexadecimal", "Binary", "Programming", "Automation", "Data Security", "Cipher"
       ]
     },
     {
@@ -53,9 +53,9 @@
     },
     
      {
-      "name": "Encryption",
+      "name": "Sports",
       "keywords": [
-        "Hexadecimal", "Binary", "Programming", "Automation", "Data Security", "Cipher"
+        "Basketball", "Baseball", "Weight Lifting", "Running"
       ]
     },
   ],
