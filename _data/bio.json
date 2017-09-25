@@ -39,6 +39,13 @@
         "Programming", "Automation", "Data Security", "Cipher", "Hexadecimal", "Binary"
       ]
     },
+     {
+      "name": "Data Networks",
+      "keywords": [
+        "DNS", "TCP", "OSI Model", "telnet", "dig"
+      ]
+    },
+    
     {
       "name": "Coding",
       "keywords": [
