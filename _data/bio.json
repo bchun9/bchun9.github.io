@@ -36,33 +36,50 @@
     {
      "name": "Encryption",
       "keywords": [
-        "Programming", "Automation", "Data Security", "Cipher", "Hexadecimal", "Binary"
+        "Programming", 
+        "Automation", 
+        "Data Security", 
+        "Cipher", 
+        "Hexadecimal", 
+        "Binary"
       ]
     },
      {
       "name": "Data Networks",
       "keywords": [
-        "DNS", "TCP", "OSI Model", "telnet", "dig"
+        "DNS", 
+        "TCP", 
+        "OSI Model", 
+        "telnet", 
+        "dig"
       ]
     },
     
     {
       "name": "Coding",
       "keywords": [
-        "Java", "C", "C++"
+        "Java", 
+        "C", 
+        "C++",
+        "Common Lisp",
       ]
     },
     {
       "name": "Software Engineering",
       "keywords": [
-        "Software", "Engineering", "Programming"
+        "Software", 
+        "Engineering", 
+        "Programming"
       ]
     },
     
      {
       "name": "Sports",
       "keywords": [
-        "Basketball", "Baseball", "Weight Lifting", "Running"
+        "Basketball", 
+        "Baseball", 
+        "Weight Lifting", 
+        "Running"
       ]
     },
   ],
