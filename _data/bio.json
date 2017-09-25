@@ -72,6 +72,7 @@
       "level": "",
       "keywords": [
         "C",
+        "Common Lisp",
         "CSS",
         "C++",
         "HTML",
@@ -93,7 +94,8 @@
         "Windows",
         "Git/GitHub",
         "g++",
-        "IntelliJ"
+        "IntelliJ",
+        "Wireshark
       ]
     }
   ],
@@ -104,8 +106,13 @@
       "studyType": "B.S.",
       "startDate": "2012-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.02",
       "courses": [
+        "ICS 451 Data Networks",
+        "ICS 425 Computer Security & Ethics",
+        "ICS 426 Computer Security",
+        "ICS 312 Machine-level & Systems Programming",
+        "ICS 355 Security & Trust",
       ]
     }
   ],
@@ -119,7 +126,7 @@
       "summary": "",
       "highlights": [
         "Assist users with resetting passwords and managing UH Usernames",
-        "Monitor specific UH systems",
+        "Monitor UH systems",
         "Troubleshoot software, hardware, and networking issues over the phone",
         "Collaborate with other employees to solve user issues"
       ]
